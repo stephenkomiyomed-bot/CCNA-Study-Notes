@@ -41,11 +41,3 @@
 
 ---
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url-here)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](your-tryhackme-url-here)
-
----
-
-*"Documenting the journey from beginner to certified network professional."*
